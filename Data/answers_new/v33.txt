@@ -1,0 +1,93 @@
+participant_number 33
+survey_language finnish
+age 26-30
+gender female
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill good 
+language_2_mother no 
+language_3 ruotsi 
+language_3_skill average 
+language_3_mother no 
+language_4 saksa 
+language_4_skill elementary 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1354299084
+k_limp_angry_k_walk_angry_000_100 jolkottaa_ rento_ _ _ 1354299176
+t_run_fast_t_run_slow_000_100 hölkkää_ _ _ _ 1354299217
+k_limp_sad_k_walk_sad_100_000 ontuu_ vaivalloisesti_ _ _ 1354299237
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 konkkaa_ _ _ _ 1354299290
+t_limp_slow_t_walk_slow_000_100 käppäilee_ hitaasti_ _ _ 1354299341
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ reippaasti_ _ _ 1354299372
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ _ _ _ 1354299443
+k_run_fast_k_run_slow_100_000 juoksee_ nopeasti_ _ _ 1354299469
+t_limp_angry_t_walk_angry_100_000 ontuu_ _ _ _ 1354299486
+t_limp_sad_t_walk_sad_100_000 raahustaa_ tuskaisesti_ _ _ 1354299533
+k_limp_slow_k_walk_slow_100_000 konkkaa_ _ _ _ 1354299591
+t_limp_sad_t_walk_sad_000_100 kuljeskelee_ apeasti_ _ _ 1354299620
+k_run_fast_k_run_slow_000_100 hypähtelee_ kevyesti_ _ _ 1354299653
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ _ _ _ 1354299670
+k_limp_sad_k_walk_sad_000_100 hidastelee_ _ _ _ 1354299686
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 ontuu_ _ _ _ 1354299700
+k_limp_angry_k_walk_angry_100_000 ontuu_ notkahdellen_ _ _ 1354299788
+t_limp_slow_t_walk_slow_100_000 tassuttelee_ hissukseen_ _ _ 1354299821
+t_limp_angry_t_walk_angry_000_100 kävelee_ ryhdikkäästi_ _ _ 1354299856
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 töpöttelee_ _ _ _ 1354299973
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1354299986
+k_limp_slow_k_walk_slow_000_100 kuljeskelee_ _ _ _ 1354300006
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ _ _ _ 1354300030
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 ontuu_ sitkeästi_ _ _ 1354300056
+t_walk_fast_t_walk_angry_t_walk_regular_000_050_050 kävelee_ rennosti_ _ _ 1354300092
+t_walk_regular_t_walk_sad_t_walk_slow_050_050_000 kävelee_ viivytellen_ _ _ 1354300174
+t_run_slow_t_limp_fast_t_walk_regular_050_000_050 juoksahtaa_ _ _ _ 1354300203
+t_limp_regular_t_limp_fast_t_limp_angry_000_050_050 ontuu_ _ _ _ 1354300220
+k_run_slow_k_limp_fast_k_walk_regular_000_050_050 nilkuttaa_ _ _ _ 1354300234
+k_walk_fast_k_walk_angry_k_walk_regular_050_050_000 harppoo_ määrätietoisesti_ _ _ 1354300268
+k_limp_regular_k_limp_fast_k_limp_angry_050_000_050 nilkuttaa_ varovasti_ _ _ 1354300301
+k_limp_angry_k_walk_angry_050_050 konkkaa_ _ _ _ 1354300322
+k_limp_slow_k_walk_slow_050_050 nilkuttaa_ _ _ _ 1354300375
+t_run_fast_t_run_slow_050_050 hölkkää_ _ _ _ 1354300416
+t_limp_regular_t_limp_fast_t_limp_angry_050_000_050 raahustaa_ _ _ _ 1354300426
+t_limp_regular_t_limp_fast_t_limp_angry_050_050_000 nilkuttaa_ _ _ _ 1354300437
+t_limp_regular_t_limp_sad_t_limp_slow_050_050_000 köpöttää_ hitaasti_ _ _ 1354300494
+t_limp_angry_t_walk_angry_050_050 käppäilee_ _ _ _ 1354300516
+t_walk_regular_t_walk_sad_t_walk_slow_000_050_050 astelee_ laiskasti_ _ _ 1354300567
+k_limp_regular_k_limp_fast_k_limp_angry_050_050_000 nilkuttaa_ _ _ _ 1354300577
+k_limp_regular_k_limp_sad_k_limp_slow_000_050_050 ontuu_ _ _ _ 1354300592
+t_limp_regular_t_limp_sad_t_limp_slow_050_000_050 raahustaa_ _ _ _ 1354300618
+k_walk_regular_k_walk_sad_k_walk_slow_000_050_050 kävelee_ hitaasti_ _ _ 1354300642
+k_walk_regular_k_walk_sad_k_walk_slow_050_050_000 kävelee_ _ _ _ 1354300670
+t_walk_fast_t_walk_angry_t_walk_regular_050_000_050 kävelee_ määrätietoisesti_ _ _ 1354300686
+k_limp_regular_k_limp_sad_k_limp_slow_050_000_050 ontuu_ vaivalloisesti_ _ _ 1354300715
+k_walk_regular_k_walk_sad_k_walk_slow_050_000_050 kävelee_ _ _ _ 1354300740
+k_limp_regular_k_limp_fast_k_limp_angry_000_050_050 laahustaa_ _ _ _ 1354300776
+k_run_slow_k_limp_fast_k_walk_regular_050_000_050 juoksee_ laiskasti_ _ _ 1354300862
+k_walk_fast_k_walk_angry_k_walk_regular_000_050_050 käppäilee_ _ _ _ 1354300890
+t_limp_sad_t_walk_sad_050_050 raahustaa_ _ _ _ 1354300913
+k_run_fast_k_run_slow_050_050 juoksee_ _ _ _ 1354300924
+t_limp_regular_t_limp_sad_t_limp_slow_000_050_050 laahustaa_ hitaasti_ _ _ 1354300951
+k_limp_sad_k_walk_sad_050_050 laahustaa_ _ _ _ 1354300994
+t_limp_angry_t_limp_sad_050_050 konkkaa_ _ _ _ 1354301004
+t_limp_slow_t_walk_slow_050_050 astelee_ _ _ _ 1354301029
+t_walk_regular_t_walk_sad_t_walk_slow_050_000_050 kävelee_ rennosti_ _ _ 1354301052
+t_walk_fast_t_walk_angry_t_walk_regular_050_050_000 kävelee_ reippaasti_ _ _ 1354301070
+k_walk_fast_k_walk_angry_k_walk_regular_050_000_050 kävelee_ _ _ _ 1354301087
+k_run_slow_k_limp_fast_k_walk_regular_050_050_000 hypähtelee_ _ _ _ 1354301102
+k_limp_regular_k_limp_sad_k_limp_slow_050_050_000 nilkuttaa_ _ _ _ 1354301114
+t_run_slow_t_limp_fast_t_walk_regular_000_050_050 kävelee_ vaivalloisesti_ _ _ 1354301144
+k_limp_angry_k_limp_sad_050_050 ontuu_ _ _ _ 1354301160
+t_run_slow_t_limp_fast_t_walk_regular_050_050_000 hölkkää_ hitaasti_ _ _ 1354301190

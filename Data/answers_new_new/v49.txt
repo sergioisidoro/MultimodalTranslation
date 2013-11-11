@@ -1,0 +1,54 @@
+participant_number 49
+survey_language finnish
+age 21-25
+gender female
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 saksa 
+language_3_skill elementary 
+language_3_mother no 
+language_4 ruotsi 
+language_4_skill elementary 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1355847216
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 linkata_ vaikeasti_ _ _ 1355847253
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävellä_ reippaasti_ rohkeasti_ _ 1355847268
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 hiipiä_ _ _ _ 1355847282
+k_limp_sad_k_walk_sad_100_000 linkata_ raihnaisesti_ _ _ 1355847298
+k_limp_sad_k_walk_sad_000_100 löntystellä_ _ _ _ 1355847313
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 astelee_ _ _ _ 1355847333
+k_run_fast_k_run_slow_000_100 hölkkää_ keveästi_ _ _ 1355847348
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 linkkaa_ _ _ _ 1355847361
+k_limp_slow_k_walk_slow_100_000 laahustaa_ _ _ _ 1355847377
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 linkkaa_ nopeasti_ _ _ 1355847389
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1355847395
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ normaalisti_ _ _ 1355847406
+t_run_fast_t_run_slow_000_100 hölkkää_ hitaasti_ _ _ 1355847417
+k_limp_angry_k_walk_angry_100_000 linkkaa_ pahasti_ _ _ 1355847426
+t_limp_angry_t_walk_angry_000_100 astelee_ tarmokkaasti_ _ _ 1355847437
+t_limp_slow_t_walk_slow_100_000 kävelee_ epävarmasti_ _ _ 1355847451
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 astelee_ tarmokkaasti_ _ _ 1355847460
+k_limp_angry_k_walk_angry_000_100 tömistelee_ _ _ _ 1355847468
+k_limp_slow_k_walk_slow_000_100 kävelee_ varovasti_ hitaasti_ _ 1355847483
+k_run_fast_k_run_slow_100_000 juoksee_ nopeasti_ _ _ 1355847491
+t_limp_sad_t_walk_sad_000_100 kävelee_ alakuloisesti_ _ _ 1355847501
+t_limp_slow_t_walk_slow_000_100 kävelee_ hyvin_hitaasti_ _ _ 1355847516
+t_limp_angry_t_walk_angry_100_000 linkkaa_ nopeasti_ _ _ 1355847526
+t_limp_sad_t_walk_sad_100_000 linkkaa_ hitaasti_ _ _ 1355847535
+t_limp_regular_t_limp_sad_t_limp_slow_000_050_050 linkkaa_ hieman_ _ _ 1355847565

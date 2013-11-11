@@ -1,0 +1,53 @@
+participant_number 245
+survey_language english
+age 26-30
+gender female
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Swedish 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Finnish 
+language_2_skill fluent 
+language_2_mother no 
+language_3 English 
+language_3_skill fluent 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Swedish 
+survey_start_at 1382906962
+k_limp_slow_k_walk_slow_000_100 Walking_ slowly_ _ _ 1382906999
+k_run_fast_k_run_slow_100_000 Springa_ målmedvetet_ _ _ 1382907046
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Halta_ _ _ _ 1382907063
+t_limp_angry_t_walk_angry_000_100 Marschera_ lätt_ _ _ 1382907081
+t_limp_slow_t_walk_slow_000_100 Gå_ långsamt_ varsamt_ _ 1382907128
+k_limp_angry_k_walk_angry_100_000 halta_ _ _ _ 1382907140
+t_run_fast_t_run_slow_100_000 springa_ _ _ _ 1382907154
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 Gå_ vanligt_ självsäkert_ _ 1382907177
+k_limp_angry_k_walk_angry_000_100 Gå_ stampande_ Argt_ _ 1382907219
+k_run_fast_k_run_slow_000_100 Springa_ startande_ _ _ 1382907238
+t_limp_sad_t_walk_sad_100_000 halta_ utmattande_ trögt_ _ 1382907259
+k_limp_sad_k_walk_sad_100_000 Halta_ deprimerande_ _ _ 1382907283
+t_limp_sad_t_walk_sad_000_100 Gå_ fundersamt_ deppigt_ _ 1382907311
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 gå_ målmedvetet_ _ _ 1382907324
+t_limp_angry_t_walk_angry_100_000 boxas_ grundställning_ _ _ 1382907352
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 halta_ målmedvetet_ kämpande_ _ 1382907370
+t_run_fast_t_run_slow_000_100 jogging_ lättsamt_ _ _ 1382907403
+t_limp_slow_t_walk_slow_100_000 halta_ långsamt_ lugnt_ _ 1382907428
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 Gå_ bestämt_ målmedvetet_ _ 1382907444
+k_limp_slow_k_walk_slow_100_000 knäböja_ haltande_ _ _ 1382907470
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Halta_ snabbt_ brådskande_ självsäkert_ 1382907492
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 promenera_ vanligt_ _ _ 1382907504
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Halta_ vanligt_ _ _ 1382907518
+k_limp_sad_k_walk_sad_000_100 gå_ deprimerande_ fundersamt_ nedslaget_ 1382907539

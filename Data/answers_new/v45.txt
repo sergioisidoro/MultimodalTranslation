@@ -1,0 +1,53 @@
+participant_number 45
+survey_language finnish
+age 31-40
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill good 
+language_2_mother no 
+language_3 ruotsi 
+language_3_skill elementary 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1355833993
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ leveästi_ itsevarmasti_ mahtipontisesti_ 1355834050
+k_run_fast_k_run_slow_100_000 juoksee_ nopeasti_ _ _ 1355834123
+t_run_fast_t_run_slow_000_100 jolkottelee_ rennosti_ _ _ 1355834150
+k_limp_slow_k_walk_slow_100_000 ontuu_ vaivalloisesti_ hitaasti_ _ 1355834176
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rennosti_ _ _ 1355834189
+k_limp_sad_k_walk_sad_000_100 kävelee_ varovaisesti_ anteeksipyytävästi_ _ 1355834240
+t_limp_sad_t_walk_sad_100_000 ontuu_ pahasti_ _ _ 1355834296
+t_limp_slow_t_walk_slow_100_000 ontuu_ _ _ _ 1355834312
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 nilkuttaa_ _ _ _ 1355834356
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 nilkuttaa_ nopeasti_ _ _ 1355834370
+k_limp_angry_k_walk_angry_100_000 ontuu_ voimakkaasti_ _ _ 1355834385
+k_run_fast_k_run_slow_000_100 juoksee_ varovasti_ nilkuttaen_ _ 1355834417
+k_limp_slow_k_walk_slow_000_100 käveleskelee_ mietteliäästi_ _ _ 1355834452
+t_limp_sad_t_walk_sad_000_100 kävelee_ hitaasti_ allapäin_ _ 1355834499
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ reippaasti_ _ _ 1355834509
+t_run_fast_t_run_slow_100_000 juoksee_ reippaasti_ _ _ 1355834548
+k_limp_sad_k_walk_sad_100_000 ontuu_ vaikeasti_ _ _ 1355834590
+t_limp_angry_t_walk_angry_000_100 marssii_ reippaasti_ _ _ 1355834602
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 marssii_ _ _ _ 1355834639
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ nopeasti_ _ _ 1355834650
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 ontuu_ _ _ _ 1355834661
+t_limp_angry_t_walk_angry_100_000 kävelee_ omituisesti_ rytmikkäästi_ _ 1355834722
+t_limp_slow_t_walk_slow_000_100 kävelee_ hitaasti_ itsevarmasti_ _ 1355834745
+k_limp_angry_k_walk_angry_000_100 kävelee_ tanssien_ rytmikkäästi_ _ 1355834797

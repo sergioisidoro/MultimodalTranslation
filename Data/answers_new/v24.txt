@@ -1,0 +1,53 @@
+participant_number 24
+survey_language finnish
+age 26-30
+gender male
+profession_activity to_some_extent
+are_you_1 active_athlete
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Englanti 
+language_2_skill fluent 
+language_2_mother yes 
+language_3 Ruotsi 
+language_3_skill elementary 
+language_3_mother no 
+language_4 Saksa 
+language_4_skill elementary 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Suomi 
+survey_start_at 1353940887
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ reippaasti_ _ _ 1353940911
+k_limp_slow_k_walk_slow_000_100 kävelee_ hitaasti_ matelevasti_ masentuneesti_ 1353940934
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ reippaasti_ iloisesti_ _ 1353940945
+t_limp_slow_t_walk_slow_000_100 kävelee_ hitaasti_ rennosti_ _ 1353940967
+k_limp_sad_k_walk_sad_000_100 kävelee_ hitaasti_ määrätiedottomasti_ epävarmasti_ 1353941008
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rennosti_ _ _ 1353941033
+t_limp_sad_t_walk_sad_000_100 kävelee_ masentuneesti_ _ _ 1353941153
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ reippaasti_ innokkaasti_ _ 1353941167
+t_run_fast_t_run_slow_100_000 juoksee_ määrätietoisesti_ varmasti_ _ 1353941190
+k_limp_slow_k_walk_slow_100_000 nilkuttaa_ _ _ _ 1353941216
+k_run_fast_k_run_slow_100_000 juoksee_ äkillisesti_ räjähtävästi_ _ 1353941248
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 nilkuttaa_ määrätietoisesti_ _ _ 1353941264
+t_limp_slow_t_walk_slow_100_000 nilkuttaa_ surkeasti_ _ _ 1353941277
+t_limp_angry_t_walk_angry_100_000 nilkuttaa_ kiireisesti_ _ _ 1353941306
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 nilkuttaa_ kiireisesti_ reippaasti_ _ 1353941321
+k_limp_angry_k_walk_angry_100_000 nilkuttaa_ töksähtelevästi_ _ _ 1353941338
+k_limp_angry_k_walk_angry_000_100 marssii_ vihaisesti_ _ _ 1353941356
+t_limp_sad_t_walk_sad_100_000 nilkuttaa_ surullisesti_ hitaasti_ _ 1353941373
+k_run_fast_k_run_slow_000_100 hölkkää_ _ _ _ 1353941594
+k_limp_sad_k_walk_sad_100_000 nilkuttaa_ varovasti_ _ _ 1353941607
+t_run_fast_t_run_slow_000_100 hölkkää_ rennosti_ _ _ 1353941620
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ kiireisesti_ _ _ 1353941650
+t_limp_angry_t_walk_angry_000_100 marssii_ määrätietoisesti_ _ _ 1353941662
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 nilkuttaa_ lievästi_ _ _ 1353941689
