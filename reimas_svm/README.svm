@@ -1,0 +1,2 @@
+# Get the multiclass classifier
+svm_multi/bin/svm_multiclass_learn -c 0.1 obs_data.txt multiclass_classifier.svm
