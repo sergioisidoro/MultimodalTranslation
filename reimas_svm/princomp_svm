@@ -1,0 +1,103 @@
+function [outvalues]=princomp_svm(X)
+
+
+% 1. z-normalize training data X
+
+%X=load('usps_12_train_X.txt');
+%y=load('usps_12_train_y.txt');
+
+N=length(X);
+mu = mean(X); 
+sigma = std(X);
+x = (X - repmat(mu, N, 1)) ./ repmat(sigma, N, 1);
+
+
+svalues=[  0, 16, 32, 64, 128 ];
+R=2;
+
+clf
+for fign=1:5
+
+subplot(2,3,fign);
+
+s=svalues(fign);
+
+title(['s=',  num2str(s), ' epsilon=', num2str(epsilon)]);
+
+% 2. calculate kernel matrix K
+
+K=get_kernel_values(x,s);
+
+% 3.  center kernel matrix K
+
+N=ones(length(:,K),length(K,:)).* 1/length(K,:)
+Knorm=K-Nmat*K-K*Nmat+Nmat*K*Nmat;
+
+
+[U, lambda]= eigs(Knorm, R, ?lm?);
+
+U
+
+lambda
+
+Unorm=U/sqrt(lambda);
+
+
+
+minval=min(x);
+maxval=max(x);
+
+
+%for n=1:length(x)
+%	plot(x(n),y(n),'o')		
+%end
+
+end %  end graph for loop
+
+end % end main function
+
+
+
+
+
+% Make a separate function for getting the kernel values:
+
+function [outvalues]=get_kernel_values(x, svalue);
+
+	N=length(x);
+	K=zeros(N,N);
+	for i=1:N; for j=i:N
+	K(i,j)=get_kernel_value(x(i,:),x(j,:),svalue );
+	K(j,i)=K(i,j);
+	end;end
+
+	outvalues=K;
+
+end
+
+function [outvalues]=get_kernel_value(x1,x2, svalue);
+	outvalues=exp( - norm(x1-x2,2)^2 / svalue^2 );
+
+end
+
+
+function [alphas]=solve_alphas(K,y,s,epsilon,C)
+
+	N=length(K);
+
+	% from lecture notes:
+
+	H = [+K, -K; -K, +K];
+	c = [epsilon * ones(N, 1) - y; epsilon * ones(N, 1) + y];
+	A = [];
+	b = [];
+	Aeq = [+ones(N, 1); -ones(N, 1)]'; %'
+	beq = 0;
+	l = zeros(2 * N, 1);
+	u = C * ones(2 * N, 1);
+
+
+	opts = optimset('Algorithm','interior-point-convex','Display','iter');
+	alphas= quadprog(H, c, A, b, Aeq, beq, l, u,[],opts);
+
+end
