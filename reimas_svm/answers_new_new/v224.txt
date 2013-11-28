@@ -1,0 +1,53 @@
+participant_number 224
+survey_language english
+age 26-30
+gender male
+profession_activity to_some_extent
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 English 
+language_1_skill fluent 
+language_1_mother no 
+language_2 Mandarin Chinese 
+language_2_skill fluent 
+language_2_mother yes 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English 
+survey_start_at 1382373700
+k_limp_sad_k_walk_sad_100_000 limping_ heavily_ depressively_ _ 1382383008
+k_run_fast_k_run_slow_100_000 running_ energetically_ _ _ 1382383039
+k_run_fast_k_run_slow_000_100 jogging_ unprofessionally_ _ _ 1382388669
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 limping_ quickly_ _ _ 1382388680
+k_limp_slow_k_walk_slow_000_100 wandering_ contemplatively_ _ _ 1382388738
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 limping_ quickly_ _ _ 1382388749
+t_limp_angry_t_walk_angry_000_100 marching_ normally_ _ _ 1382388779
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 walking_ normally_ _ _ 1382388792
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 walking_ normally_ _ _ 1382388800
+t_limp_sad_t_walk_sad_100_000 limping_ hurtfully_ _ _ 1382388815
+k_limp_angry_k_walk_angry_000_100 marching_ angrily_ _ _ 1382388827
+t_limp_slow_t_walk_slow_000_100 wandering_ indecisively_ _ _ 1382388859
+k_limp_sad_k_walk_sad_000_100 wandering_ depressively_ _ _ 1382388892
+t_run_fast_t_run_slow_000_100 jogging_ normally_ _ _ 1382388902
+k_limp_angry_k_walk_angry_100_000 limping_ unconvincingly_ _ _ 1382388914
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 limping_ reluctantly_ _ _ 1382388935
+k_limp_slow_k_walk_slow_100_000 limping_ hestitantly_ _ _ 1382389587
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 wandering_ confidently_ _ _ 1382389612
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 marching_ hurrily_ _ _ 1382389620
+t_limp_slow_t_walk_slow_100_000 limping_ mortally_ _ _ 1382389632
+t_limp_sad_t_walk_sad_000_100 wandering_ sadly_ _ _ 1382389653
+t_limp_angry_t_walk_angry_100_000 stomping_ forward_ _ _ 1382389674
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 limping_ pretentiously_ _ _ 1382389724
+t_run_fast_t_run_slow_100_000 running_ promptly_ _ _ 1382389752

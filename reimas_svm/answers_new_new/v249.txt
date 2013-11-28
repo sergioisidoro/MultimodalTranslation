@@ -1,0 +1,93 @@
+participant_number 249
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity 
+language_1 English 
+language_1_skill fluent 
+language_1_mother no 
+language_2 Malayalam 
+language_2_skill fluent 
+language_2_mother yes 
+language_3 Hindi 
+language_3_skill fluent 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English(India) 
+survey_start_at 1382979110
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 Walking_ Normally_ Slowly_ _ 1382979143
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 walking_ slowly_ leisurely_ _ 1382979171
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 limping_ briskly_ _ _ 1382979198
+k_limp_angry_k_walk_angry_000_100 walking_ angry_ irritated_ adamant_ 1382979233
+t_limp_angry_t_walk_angry_100_000 limping_ slowly_ _ _ 1382979242
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 walking_ normally_ _ _ 1382979256
+t_limp_slow_t_walk_slow_000_100 loiter_ slowly_ _ _ 1382979323
+k_limp_sad_k_walk_sad_000_100 walking_ very_slowly_ _ _ 1382979365
+k_limp_slow_k_walk_slow_000_100 loiter_ _ _ _ 1382979387
+t_run_fast_t_run_slow_100_000 running_ fast_ _ _ 1382979400
+k_limp_sad_k_walk_sad_100_000 limping_ slowly_ _ _ 1382979416
+k_run_fast_k_run_slow_100_000 running_ fast_ hurry_ _ 1382979436
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 walking_ Normally_ medium_paced_ _ 1382979455
+t_limp_sad_t_walk_sad_000_100 walking_ slowly_ tired_ _ 1382979468
+t_limp_slow_t_walk_slow_100_000 limping_ slowly_ faltering_ _ 1382979532
+k_limp_angry_k_walk_angry_100_000 limping_ heavily_ medium_paced_ lurching_ 1382979557
+t_limp_sad_t_walk_sad_100_000 limping_ very_slow_ _ _ 1382979569
+t_run_fast_t_run_slow_000_100 jogging_ _ _ _ 1382979578
+t_limp_angry_t_walk_angry_000_100 walking_ paced_ heavy_ stomping_ 1382979610
+k_run_fast_k_run_slow_000_100 jogging_ slowly_ _ _ 1382979621
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 limping_ fast_ _ _ 1382979633
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 limping_ little_ slow_ _ 1382979647
+k_limp_slow_k_walk_slow_100_000 hobbling_ slowly_ _ _ 1382979663
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 hobbling_ medium_paced_ _ _ 1382979676
+t_run_slow_t_limp_fast_t_walk_regular_050_050_000 limping_ briskly_ _ _ 1382979716
+k_limp_sad_k_walk_sad_050_050 plodding_ _ _ _ 1382979740
+t_walk_regular_t_walk_sad_t_walk_slow_000_050_050 walking_ slowly_ _ _ 1382979752
+t_limp_angry_t_limp_sad_050_050 limping_ heavily_ _ _ 1382979765
+k_walk_fast_k_walk_angry_k_walk_regular_050_050_000 stomping_ angry_ _ _ 1382979774
+t_limp_regular_t_limp_fast_t_limp_angry_050_000_050 limping_ medium_paced_ _ _ 1382979784
+t_limp_angry_t_walk_angry_050_050 walking_ unsteady_ _ _ 1382979827
+k_walk_fast_k_walk_angry_k_walk_regular_050_000_050 walking_ normal_ _ _ 1382979835
+t_limp_slow_t_walk_slow_050_050 loiter_ slow_ cautious_ _ 1382979853
+k_limp_regular_k_limp_sad_k_limp_slow_050_050_000 loiter_ slow_ cautious_ _ 1382979853
+t_walk_fast_t_walk_angry_t_walk_regular_050_000_050 walking_ normal_ _ _ 1382979867
+k_walk_regular_k_walk_sad_k_walk_slow_050_000_050 walking_ slowly_ _ _ 1382979883
+k_run_fast_k_run_slow_050_050 running_ _ _ _ 1382979893
+k_limp_regular_k_limp_sad_k_limp_slow_000_050_050 limping_ slowly_ _ _ 1382979901
+t_limp_regular_t_limp_sad_t_limp_slow_050_000_050 plodding_ _ _ _ 1382979926
+t_limp_regular_t_limp_sad_t_limp_slow_000_050_050 limping_ very_slowly_ _ _ 1382979937
+t_run_slow_t_limp_fast_t_walk_regular_000_050_050 walking_ limping_ _ _ 1382979963
+t_limp_regular_t_limp_fast_t_limp_angry_000_050_050 limping_ _ _ _ 1382979969
+k_walk_regular_k_walk_sad_k_walk_slow_000_050_050 strolling_ _ _ _ 1382979981
+k_limp_regular_k_limp_sad_k_limp_slow_050_000_050 limping_ heavy_ plodding_ _ 1382979992
+k_limp_regular_k_limp_fast_k_limp_angry_000_050_050 limping_ heavily_ _ _ 1382980000
+t_limp_regular_t_limp_fast_t_limp_angry_050_050_000 limping_ light_ fast_ _ 1382980010
+t_walk_fast_t_walk_angry_t_walk_regular_000_050_050 walking_ slow_ _ _ 1382980024
+t_walk_regular_t_walk_sad_t_walk_slow_050_000_050 walking_ very_slow_ cautious_ _ 1382980036
+k_run_slow_k_limp_fast_k_walk_regular_000_050_050 limping_ slight_ medium_paced_ _ 1382980053
+k_walk_regular_k_walk_sad_k_walk_slow_050_050_000 walking_ slowly_ carefully_ threading_ 1382980077
+k_limp_regular_k_limp_fast_k_limp_angry_050_000_050 limping_ medium_paced_ _ _ 1382980085
+k_run_slow_k_limp_fast_k_walk_regular_050_050_000 running_ slowly_ limping_ _ 1382980101
+t_walk_fast_t_walk_angry_t_walk_regular_050_050_000 marching_ _ _ _ 1382980113
+k_walk_fast_k_walk_angry_k_walk_regular_000_050_050 walking_ angry_ _ _ 1382980125
+k_limp_regular_k_limp_fast_k_limp_angry_050_050_000 limping_ fast_ _ _ 1382980132
+k_limp_angry_k_limp_sad_050_050 limping_ slowly_ _ _ 1382980140
+t_limp_regular_t_limp_sad_t_limp_slow_050_050_000 limping_ light_ slow_ _ 1382980153
+t_limp_sad_t_walk_sad_050_050 walking_ sad_ slow_ _ 1382980172
+t_run_slow_t_limp_fast_t_walk_regular_050_000_050 walking_ fast_ _ _ 1382980195
+k_run_slow_k_limp_fast_k_walk_regular_050_000_050 walking_ briskly_ enthusiastically_ _ 1382980263
+k_limp_slow_k_walk_slow_050_050 limping_ slowly_ _ _ 1382980273
+k_limp_angry_k_walk_angry_050_050 plodding_ heavy_ angry_ limping_ 1382980287
+t_run_fast_t_run_slow_050_050 jogging_ _ _ _ 1382980298
+t_walk_regular_t_walk_sad_t_walk_slow_050_050_000 walking_ slowly_ _ _ 1382980305

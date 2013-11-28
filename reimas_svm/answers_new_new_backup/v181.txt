@@ -1,0 +1,53 @@
+participant_number 181
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity student
+language_1 English 
+language_1_skill good 
+language_1_mother no 
+language_2  
+language_2_skill none 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English 
+survey_start_at 1380700470
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 walking__ normally_ _ _ 1380700521
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 stagger_ _ _ _ 1380700612
+t_limp_angry_t_walk_angry_100_000 stagger_ hardly_ _ _ 1380700686
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 stagger_ _ _ _ 1380700818
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 walking_ _ _ _ 1380700828
+k_limp_angry_k_walk_angry_100_000 staggering_ with_difficulty_ _ _ 1380701021
+t_limp_slow_t_walk_slow_100_000 limp_ _ _ _ 1380701137
+t_run_fast_t_run_slow_000_100 running_ slowly_ _ _ 1380701150
+k_limp_sad_k_walk_sad_000_100 walking_ very_slowly_ _ _ 1380701172
+t_limp_slow_t_walk_slow_000_100 walking_ slowly_ _ _ 1380701188
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 walking_ fast_ _ _ 1380701199
+t_run_fast_t_run_slow_100_000 running_ fast_ _ _ 1380701212
+k_limp_angry_k_walk_angry_000_100 dancing_ _ _ _ 1380701230
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 walking_ normally_ _ _ 1380701242
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 limping_ with_difficulty_ _ _ 1380701264
+t_limp_angry_t_walk_angry_000_100 walking_ happily_ _ _ 1380701278
+k_limp_slow_k_walk_slow_100_000 limping_ _with_very_difficulty_ _ _ 1380701315
+t_limp_sad_t_walk_sad_100_000 limping_ slowly_ _ _ 1380701335
+k_run_fast_k_run_slow_100_000 running_ fast_ _ _ 1380701348
+k_limp_slow_k_walk_slow_000_100 walking_ slowly_ _ _ 1380701362
+t_limp_sad_t_walk_sad_000_100 walking_ with_doubt_ _ _ 1380701382
+k_limp_sad_k_walk_sad_100_000 limping_ slowly_ _ _ 1380701398
+k_run_fast_k_run_slow_000_100 jogging_ _ _ _ 1380701410
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 limping_ fast_ _ _ 1380701420

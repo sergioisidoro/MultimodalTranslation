@@ -1,0 +1,53 @@
+participant_number 244
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Swedish 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Finnish 
+language_2_skill fluent 
+language_2_mother no 
+language_3 English 
+language_3_skill fluent 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Swedish 
+survey_start_at 1382906821
+k_run_fast_k_run_slow_100_000 Springa_ snabbt_ smidigt_ _ 1382906839
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Halta_ upprätt_ _ _ 1382906851
+t_limp_slow_t_walk_slow_000_100 ströva_ lätt_ _ _ 1382906875
+k_limp_sad_k_walk_sad_100_000 halta_ långsamt_ _ _ 1382906910
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 gå_ nonchalant_ _ _ 1382906938
+k_limp_slow_k_walk_slow_100_000 Halta_ mödofritt_ _ _ 1382906970
+t_run_fast_t_run_slow_000_100 jogga_ lugnt_ _ _ 1382907004
+k_limp_slow_k_walk_slow_000_100 gå_ mödosamt_ långsamt_ _ 1382907016
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Halta_ snabbt_ _ _ 1382907043
+k_limp_angry_k_walk_angry_000_100 traska_ aggressivt_ _ _ 1382907055
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 gå_ bestämt_ _ _ 1382907065
+t_limp_sad_t_walk_sad_000_100 gå_ vemodigt_ _ _ 1382907080
+t_run_fast_t_run_slow_100_000 springa_ klumpigt_ _ _ 1382907092
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 halta_ _ _ _ 1382907098
+k_limp_angry_k_walk_angry_100_000 linka_ _ _ _ 1382907105
+k_run_fast_k_run_slow_000_100 jogga_ lugnt_ _ _ 1382907115
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 gå_ _ _ _ 1382907122
+t_limp_sad_t_walk_sad_100_000 halta_ trögt_ trött_ _ 1382907135
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 halta_ lätt_ _ _ 1382907144
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 gå_ obestämt_ _ _ 1382907156
+t_limp_angry_t_walk_angry_100_000 halta_ _ _ _ 1382907163
+k_limp_sad_k_walk_sad_000_100 gå_ sorgset_ långsamt_ _ 1382907173
+t_limp_slow_t_walk_slow_100_000 halta_ mycket_långsamt_ _ _ 1382907183
+t_limp_angry_t_walk_angry_000_100 gå_ bestämt_ _ _ 1382907189

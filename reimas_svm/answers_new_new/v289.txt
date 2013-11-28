@@ -1,0 +1,53 @@
+participant_number 289
+survey_language english
+age 31-40
+gender male
+profession_activity no
+are_you_1 active_athlete
+are_you_2 
+are_you_3 sports_trainer
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 English 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Irish Gaelic 
+language_2_skill good 
+language_2_mother no 
+language_3 French 
+language_3_skill good 
+language_3_mother no 
+language_4 Finnish 
+language_4_skill average 
+language_4_mother no 
+language_5 German 
+language_5_skill elementary 
+language_5_mother no 
+selected_language English (Ireland) 
+survey_start_at 1385038927
+t_limp_slow_t_walk_slow_100_000 Limping_ Reluctantly_ Painfully_ _ 1385039037
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Limping_ Energetically_ _ _ 1385039094
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Limping_ Dutifully_ _ _ 1385039140
+k_limp_angry_k_walk_angry_100_000 Shuffling_ Theatrically_ _ _ 1385039224
+t_run_fast_t_run_slow_000_100 Jogging_ Slowly_ _ _ 1385039262
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Limping_ _ _ _ 1385039282
+k_run_fast_k_run_slow_100_000 Running_ Determined_ _ _ 1385039328
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 Plodding_ _ _ _ 1385039362
+k_limp_angry_k_walk_angry_000_100 Stomping_ Overdoing_ _ _ 1385039399
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 Strolling_ casually_ _ _ 1385039420
+t_limp_sad_t_walk_sad_100_000 Limping_ painfully_ _ _ 1385039434
+k_limp_sad_k_walk_sad_000_100 Plodding_ Mournfully_ _ _ 1385039475
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 Limping_ enthusiastically_ _ _ 1385039491
+k_limp_sad_k_walk_sad_100_000 Shuffling_ Painfully_ _ _ 1385039507
+k_limp_slow_k_walk_slow_000_100 Walking_ Gingerly_ _ _ 1385039523
+t_run_fast_t_run_slow_100_000 Running_ Energetically_ _ _ 1385039535
+t_limp_angry_t_walk_angry_100_000 Limping_ Briskly__ _ _ 1385039555
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 Walking_ Normally_ _ _ 1385039563
+k_limp_slow_k_walk_slow_100_000 Limping_ Geriatrically_ _ _ 1385039584
+t_limp_slow_t_walk_slow_000_100 Strolling_ Slowly_ _ _ 1385039598
+k_run_fast_k_run_slow_000_100 Jogging_ Lightly_ _ _ 1385039613
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 Walking_ Normally_ _ _ 1385039627
+t_limp_angry_t_walk_angry_000_100 Marching_ Theatrically_ _ _ 1385039640
+t_limp_sad_t_walk_sad_000_100 Walking_ Reluctantly_ _ _ 1385039661

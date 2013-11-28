@@ -1,0 +1,53 @@
+participant_number 52
+survey_language finnish
+age 26-30
+gender female
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 ruotsi 
+language_3_skill average 
+language_3_mother no 
+language_4 venäjä 
+language_4_skill elementary 
+language_4_mother no 
+language_5 ranska 
+language_5_skill elementary 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1355857352
+k_limp_angry_k_walk_angry_000_100 tömpsii_ joustavasti_ tarmokkaasti_ _ 1355857388
+k_limp_sad_k_walk_sad_100_000 laahustaa_ linkuttaen_ _ _ 1355857404
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ _ _ _ 1355857432
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ rivakasti_ _ _ 1355857444
+k_run_fast_k_run_slow_000_100 hölkkää_ _ _ _ 1355857451
+k_limp_slow_k_walk_slow_100_000 raahautuu_ _ _ _ 1355857466
+k_limp_slow_k_walk_slow_000_100 käppäilee_ rauhallisesti_ _ _ 1355857478
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 astelee_ rivakasti_ _ _ 1355857486
+t_limp_angry_t_walk_angry_100_000 fokstrottaa_ _ _ _ 1355857503
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 vaihtoaskeltaa_ _ _ _ 1355857522
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ _ _ _ 1355857532
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 etenee_ vaivalloisesti_ _ _ 1355857556
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1355857563
+t_limp_sad_t_walk_sad_000_100 matelee_ allapäin_ _ _ 1355857577
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 linkuttaa_ _ _ _ 1355857589
+t_limp_slow_t_walk_slow_000_100 vaeltaa_ hitaasti_ _ _ 1355857603
+k_run_fast_k_run_slow_100_000 juoksee_ pyrähtäen_ _ _ 1355857612
+t_limp_slow_t_walk_slow_100_000 raahautuu_ nilkuttaen_ _ _ 1355857637
+t_run_fast_t_run_slow_000_100 hölkkää_ _ _ _ 1355857645
+t_limp_angry_t_walk_angry_000_100 marssii_ _ _ _ 1355857652
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 käppäilee_ _ _ _ 1355857662
+k_limp_sad_k_walk_sad_000_100 matelee_ hiipuen_ allapäin_ _ 1355857688
+t_limp_sad_t_walk_sad_100_000 linkuttaa_ erittäin_sairaasti_ _ _ 1355857711
+k_limp_angry_k_walk_angry_100_000 linkuttaa_ rivakasti_ _ _ 1355857721

@@ -1,0 +1,53 @@
+participant_number 47
+survey_language finnish
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 ruotsi 
+language_3_skill good 
+language_3_mother no 
+language_4 saksa 
+language_4_skill average 
+language_4_mother no 
+language_5 venäjä 
+language_5_skill average 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1355837946
+t_limp_sad_t_walk_sad_100_000 nilkuttaa_ hitaasti_ _ _ 1355837971
+k_limp_sad_k_walk_sad_000_100 kävelee_ hitaasti_ rennosti_ alakuloisesti_ 1355837993
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 kävelee_ varovaisesti_ _ _ 1355838017
+k_run_fast_k_run_slow_000_100 juoksee_ rennosti_ huolettomasti_ _ 1355838032
+t_limp_angry_t_walk_angry_000_100 marssii_ määrätietoisesti_ _ _ 1355838043
+t_limp_slow_t_walk_slow_000_100 kävelee_ hitaasti_ rauhallisesti_ _ 1355838055
+k_limp_slow_k_walk_slow_100_000 nilkuttaa_ _ _ _ 1355838076
+k_limp_angry_k_walk_angry_100_000 nilkuttaa_ _ _ _ 1355838085
+t_run_fast_t_run_slow_000_100 juoksee_ _ _ _ 1355838092
+k_limp_slow_k_walk_slow_000_100 kävelee_ rennosti_ _ _ 1355838107
+t_limp_angry_t_walk_angry_100_000 kävelee_ oudosti_ _ _ 1355838127
+t_limp_slow_t_walk_slow_100_000 hiipii_ _ _ _ 1355838148
+k_limp_angry_k_walk_angry_000_100 kävelee_ vihaisesti_ tarmokkaasti_ _ 1355838168
+k_run_fast_k_run_slow_100_000 juoksee_ määrätietoisesti_ _ _ 1355838186
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 nilkuttaa_ reippaasti_ _ _ 1355838194
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ tavallisesti_ _ _ 1355838202
+k_limp_sad_k_walk_sad_100_000 nilkuttaa_ alakuloisesti_ hitaasti_ _ 1355838215
+t_run_fast_t_run_slow_100_000 juoksee_ määrätietoisesti_ _ _ 1355838226
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ kiireisesti_ _ _ 1355838236
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rennosti_ _ _ 1355838243
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 nilkuttaa_ _ _ _ 1355838249
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ _ _ _ 1355838255
+t_limp_sad_t_walk_sad_000_100 kävelee_ alakuloisesti_ _ _ 1355838263
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ _ _ _ 1355838269

@@ -1,0 +1,53 @@
+participant_number 187
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity دانش آموز
+language_1 فارسی 
+language_1_skill fluent 
+language_1_mother yes 
+language_2  
+language_2_skill none 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language فارسی 
+survey_start_at 1381416008
+t_run_fast_t_run_slow_000_100 دویدن_ به_آرامی_ _ _ 1381416094
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 راه_رفتن_ _ _ _ 1381416124
+t_limp_slow_t_walk_slow_100_000 لنگان_لنگان_رفتن_ _ _ _ 1381416156
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 لنگان_لنگان_رفتن_ با_سرعت_ _ _ 1381416238
+k_run_fast_k_run_slow_100_000 دویدن_ _ _ _ 1381416263
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 راه_رفتن_ _ _ _ 1381416323
+t_limp_sad_t_walk_sad_100_000 لنگان_لنگان_رفتن_ به_آرامی_ _ _ 1381416334
+t_limp_sad_t_walk_sad_000_100 راه_رفتن_ به_آرامی_ _ _ 1381416348
+k_limp_slow_k_walk_slow_100_000 لنگان_لنگان_رفتن_ به_سختی_ _ _ 1381416482
+k_limp_angry_k_walk_angry_100_000 لنگان_لنگان_رفتن_ به_سختی_ با_سرعت_ _ 1381416520
+k_run_fast_k_run_slow_000_100 دویدن_ _ _ _ 1381416526
+k_limp_sad_k_walk_sad_100_000 لنگان_لنگان_رفتن_ _ _ _ 1381416543
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 راه_رفتن_ _ _ _ 1381416555
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 لنگان_لنگان_رفتن_ با_سرعت_ _ _ 1381416569
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 راه_رفتن_ با_سرعت_ _ _ 1381416577
+k_limp_sad_k_walk_sad_000_100 راه_رفتن_ به_آرامی_ _ _ 1381416594
+t_limp_angry_t_walk_angry_000_100 راه_رفتن_ _با_خوشحالی‌_ _ _ 1381416621
+t_limp_angry_t_walk_angry_100_000 راه_رفتن_ با_گارد_ _ _ 1381416666
+k_limp_angry_k_walk_angry_000_100 راه_رفتن_ با_انرژی_ _ _ 1381416692
+t_run_fast_t_run_slow_100_000 دویدن_ با_سرعت_ _ _ 1381416700
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 لنگان_لنگان_رفتن_ با_سرعت_ _ _ 1381416710
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 لنگان_لنگان_رفتن_ _ _ _ 1381416728
+k_limp_slow_k_walk_slow_000_100 راه_رفتن_ به_آرامی_ _ _ 1381416743
+t_limp_slow_t_walk_slow_000_100 راه_رفتن_ خیلی‌_آرام_ _ _ 1381416775

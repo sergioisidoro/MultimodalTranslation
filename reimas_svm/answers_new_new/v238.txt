@@ -1,0 +1,53 @@
+participant_number 238
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity Office job
+language_1 English 
+language_1_skill good 
+language_1_mother no 
+language_2 Amharic 
+language_2_skill fluent 
+language_2_mother no 
+language_3 Afaan Oromo 
+language_3_skill fluent 
+language_3_mother yes 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English 
+survey_start_at 1382810789
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 walking_ problem_with_leg_ _ _ 1382811116
+k_limp_slow_k_walk_slow_000_100 walking__ walking_slowly_ _ _ 1382811545
+t_limp_slow_t_walk_slow_000_100 walking__ walking_comfortably_ _ _ 1382811727
+t_run_fast_t_run_slow_100_000 Running_ Running_ _ _ 1382811761
+t_limp_sad_t_walk_sad_100_000 walking__ problem_with_leg_ _ _ 1382814721
+k_limp_angry_k_walk_angry_100_000 walking__ leg_problem_ _ _ 1382814779
+t_limp_angry_t_walk_angry_000_100 walking__ fast_walking_ _ _ 1382814814
+k_run_fast_k_run_slow_100_000 running_ running_ _ _ 1382814838
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 walking__ gently_ _ _ 1382814870
+k_limp_sad_k_walk_sad_100_000 walking__ slowly_with_leg_problem_ _ _ 1382814985
+t_limp_slow_t_walk_slow_100_000 walking__ leg_problem_ _ _ 1382815112
+k_run_fast_k_run_slow_000_100 Running_ with_leg_problem_ _ _ 1382815162
+t_run_fast_t_run_slow_000_100 Running_ slowely_ _ _ 1382815208
+k_limp_slow_k_walk_slow_100_000 walking__ leg_problem_ _ _ 1382815392
+t_limp_sad_t_walk_sad_000_100 walking_ gentle_walk_ _ _ 1382815650
+k_limp_sad_k_walk_sad_000_100 walking__ gentle_walk_ _ _ 1382816010
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 walking__ leg_problem_ _ _ 1382816530
+k_limp_angry_k_walk_angry_000_100 walking__ dancing_walk_ _ _ 1382816599
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 walking__ rush_walk_ _ _ 1382817093
+t_limp_angry_t_walk_angry_100_000 walking__ one_leg_forward_ _ _ 1382817150
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 walking__ one_leg_forward_ _ _ 1382817193
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 walking__ gentle_walk_ _ _ 1382817229
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 walking__ leg_dragged_ _ _ 1382817356
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 walking__ stretched_legs._ _ _ 1382817639

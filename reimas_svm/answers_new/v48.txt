@@ -1,0 +1,53 @@
+participant_number 48
+survey_language finnish
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity satunnainen urheilija
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 ruotsi 
+language_2_skill fluent 
+language_2_mother no 
+language_3 englanti 
+language_3_skill fluent 
+language_3_mother no 
+language_4 saksa 
+language_4_skill fluent 
+language_4_mother no 
+language_5 kiina 
+language_5_skill average 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1355846878
+k_limp_sad_k_walk_sad_100_000 linkuttaa_ vaivalloinen_ vaivainen_ kivulias_ 1355846917
+k_run_fast_k_run_slow_000_100 lähtee_juoksuun_ pirteä_ iloinen_ nopea_ 1355846964
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ päättäväinen_ reipas_ jämäkkä_ 1355846981
+k_limp_sad_k_walk_sad_000_100 laahustaa_ surumielinen_ _ _ 1355847160
+t_limp_angry_t_walk_angry_000_100 kävelee_ päättäväinen_ _ _ 1355847488
+k_limp_slow_k_walk_slow_100_000 linkuttaa_ vaivainen_ _ _ 1355847503
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ päättäväinen_ _ _ 1355847512
+t_limp_slow_t_walk_slow_000_100 maleksii_ rehvakas_ _ _ 1355847549
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 linkuttaa_ rampa_ _ _ 1355847577
+t_limp_sad_t_walk_sad_000_100 etsii_ hämillään_ _ _ 1355847592
+k_limp_slow_k_walk_slow_000_100 ihmettelee_ rauhallinen_ _ _ 1355847621
+t_run_fast_t_run_slow_100_000 juoksee_ ripeä_ _ _ 1355847641
+t_limp_angry_t_walk_angry_100_000 linkuttaa_ aggressiivinen_ _ _ 1355847666
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 linkuttaa_ päättäväinen_ _ _ 1355847678
+t_limp_slow_t_walk_slow_100_000 linkuttaa_ vaivainen_ _ _ 1355847694
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 linkuttaa_ reipas_ _ _ 1355847706
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 linkuttaa_ rauhallinen_ _ _ 1355847728
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rauhallinen_ _ _ 1355847739
+t_limp_sad_t_walk_sad_100_000 linkuttaa_ rampa_ _ _ 1355847748
+k_run_fast_k_run_slow_100_000 juoksee_ ripeä_ _ _ 1355847757
+k_limp_angry_k_walk_angry_000_100 kävelee_ päättäväinen_ _ _ 1355847772
+t_run_fast_t_run_slow_000_100 hölkkää_ ripeä_ _ _ 1355847786
+k_limp_angry_k_walk_angry_100_000 linkuttaa_ kivulias_ _ _ 1355847795
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ päättäväinen_ _ _ 1355847804

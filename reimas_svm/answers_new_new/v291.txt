@@ -1,0 +1,53 @@
+participant_number 291
+survey_language english
+age 31-40
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity Researcher
+language_1 English 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Finnish 
+language_2_skill average 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English (Irish) 
+survey_start_at 1385046217
+k_limp_sad_k_walk_sad_100_000 _Limping_ slowly_ _ _ 1385046270
+t_limp_slow_t_walk_slow_100_000 hobbling_ slowly_ _ _ 1385046299
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 striding_ purposefully_ confidently_ _ 1385046315
+t_limp_sad_t_walk_sad_100_000 Limping_ mournfully_ _ _ 1385046334
+k_limp_angry_k_walk_angry_100_000 Limping_ quickly_ _ _ 1385046402
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 walking_ normally_ _ _ 1385046412
+t_limp_angry_t_walk_angry_100_000 limping_ carefully_ _ _ 1385046431
+k_limp_slow_k_walk_slow_100_000 limping_ slowly_ painfully_ _ 1385046450
+k_limp_angry_k_walk_angry_000_100 striding_ flouncingly_ _ _ 1385046554
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 limping_ quickly_ _ _ 1385046564
+t_run_fast_t_run_slow_100_000 jogging_ slowly_ _ _ 1385046575
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 walking_ purposefully_ _ _ 1385046588
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Limping_ slowly_ _ _ 1385046600
+k_run_fast_k_run_slow_100_000 running_ purposefully_ _ _ 1385046610
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Limping_ mournfully_ _ _ 1385046621
+t_limp_slow_t_walk_slow_000_100 walking_ thoughtfully_ _ _ 1385046650
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 walking_ _ _ _ 1385046676
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 hobbling_ _ _ _ 1385046688
+k_limp_sad_k_walk_sad_000_100 shuffling_ mournfully_ _ _ 1385046743
+t_limp_sad_t_walk_sad_000_100 shuffling_ mournfully_ _ _ 1385046755
+t_run_fast_t_run_slow_000_100 jogging_ _ _ _ 1385046764
+k_run_fast_k_run_slow_000_100 jogging_ _ _ _ 1385046769
+t_limp_angry_t_walk_angry_000_100 stamping_ _ _ _ 1385046776
+k_limp_slow_k_walk_slow_000_100 strolling_ _ _ _ 1385046786

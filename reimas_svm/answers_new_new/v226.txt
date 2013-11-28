@@ -1,0 +1,53 @@
+participant_number 226
+survey_language english
+age 31-40
+gender male
+profession_activity to_some_extent
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity used to be a athlete
+language_1 Telugu 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Hindi 
+language_2_skill fluent 
+language_2_mother yes 
+language_3 English 
+language_3_skill fluent 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English (INDIA) 
+survey_start_at 1382391478
+k_limp_angry_k_walk_angry_000_100 Speed_Walk_ Pretty_well_ _ _ 1382391590
+t_run_fast_t_run_slow_100_000 jogging_ Nice_action_ _ _ 1382391646
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 forced_walk_ pretty_good_action_ _ _ 1382391708
+k_run_fast_k_run_slow_000_100 a_slow_jog_ colorful_ _ _ 1382391741
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Painful_walk_ bit_slow_ _ _ 1382391783
+t_limp_angry_t_walk_angry_100_000 pushing_hard_ colorful_ _ _ 1382391864
+k_limp_sad_k_walk_sad_000_100 thoughtful_walk_ nice_one_ _ _ 1382391882
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 recovery_walk_ cool_ _ _ 1382391908
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 recently_operated__ _ _ _ 1382391930
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 a_normal_walk_ a_daily_walk_ _ _ 1382391955
+t_limp_sad_t_walk_sad_000_100 thinking_sad_ a_pretty_sad_walk_ _ _ 1382391982
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 active_walk_ person_is_active_ _ _ 1382392021
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 casual_walk_ _ _ _ 1382392035
+k_limp_angry_k_walk_angry_100_000 operated_knee_walk_ _ _ _ 1382392062
+k_limp_slow_k_walk_slow_100_000 terribly_painful_walk_ _ _ _ 1382392078
+k_limp_sad_k_walk_sad_100_000 old_person_walk_ _ _ _ 1382392096
+t_limp_slow_t_walk_slow_000_100 careful_walk_ _ _ _ 1382392125
+k_run_fast_k_run_slow_100_000 Run_ _ _ _ 1382392134
+t_limp_slow_t_walk_slow_100_000 healing_walk_ _ _ _ 1382392156
+t_run_fast_t_run_slow_000_100 a_morning_jog_ _ _ _ 1382392175
+k_limp_slow_k_walk_slow_000_100 a_simple_walk_ _ _ _ 1382392221
+t_limp_angry_t_walk_angry_000_100 funny_walk_ _ _ _ 1382392245
+t_limp_sad_t_walk_sad_100_000 very_painful_walk_ _ _ _ 1382392260
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 a_normal_human_kinda_walk_ _ _ _ 1382392275

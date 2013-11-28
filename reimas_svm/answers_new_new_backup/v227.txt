@@ -1,0 +1,53 @@
+participant_number 227
+survey_language english
+age 26-30
+gender male
+profession_activity to_some_extent
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Mandarin Chinese 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 English 
+language_2_skill fluent 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Mandarin Chinese 
+survey_start_at 1382392588
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 跛行_ 艰难地_ _ _ 1382392669
+t_limp_slow_t_walk_slow_100_000 跛行_ 犹豫地_ _ _ 1382392702
+t_limp_angry_t_walk_angry_000_100 行军_ 正常地_ _ _ 1382392782
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 跛行_ 迅速地_ _ _ 1382392822
+t_limp_sad_t_walk_sad_100_000 跛行_ 垂头丧气地_ _ _ 1382392853
+t_run_fast_t_run_slow_100_000 跑步_ 装蒜地_ _ _ 1382392872
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 行军_ 二逼地_ _ _ 1382392902
+t_run_fast_t_run_slow_000_100 跑步_ 放松地_ _ _ 1382392945
+k_limp_slow_k_walk_slow_100_000 跛行_ 艰难地_ _ _ 1382393043
+k_limp_angry_k_walk_angry_100_000 跛行_ 有力地_ _ _ 1382393057
+t_limp_slow_t_walk_slow_000_100 散步_ 放松地_ _ _ 1382393070
+t_limp_angry_t_walk_angry_100_000 跛行_ 做势地_ _ _ 1382393122
+k_limp_sad_k_walk_sad_000_100 散步_ 沉重地_ _ _ 1382393152
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 走路_ 自信地_ _ _ 1382393164
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 走路_ 大摇大摆地_ _ _ 1382393184
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 跛行_ 正常地_ _ _ 1382393196
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 走路_ 牛逼地_ _ _ 1382393211
+k_run_fast_k_run_slow_100_000 跑步_ 迅速地_ _ _ 1382393223
+k_run_fast_k_run_slow_000_100 跑步_ 装蒜地_ _ _ 1382393235
+k_limp_slow_k_walk_slow_000_100 散步_ 散漫地_ _ _ 1382393255
+k_limp_angry_k_walk_angry_000_100 前进_ 愤怒地_ _ _ 1382393942
+k_limp_sad_k_walk_sad_100_000 跛行_ 缓慢地_ _ _ 1382393957
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 跛行_ 迅速地_ _ _ 1382393980
+t_limp_sad_t_walk_sad_000_100 散步_ 伤心地_ _ _ 1382393993

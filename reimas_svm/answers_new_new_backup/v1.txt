@@ -1,0 +1,55 @@
+participant_number 1
+survey_language finnish
+age 51-60
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity hyötyliikkuja
+language_1 suomi 
+language_1_skill none 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill good 
+language_2_mother no 
+language_3 ruotsi 
+language_3_skill good 
+language_3_mother no 
+language_4 saksa 
+language_4_skill average 
+language_4_mother no 
+language_5 venäjä 
+language_5_skill elementary 
+language_5_mother no 
+selected_language ruotsi 
+survey_start_at 1353626113
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 klenkkar_ långsamt_ orthogonaliskt_ _ 1353626461
+t_run_fast_t_run_slow_100_000 springer_ snabbt_ _ _ 1353626496
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 dansar_ hästligt_ _ _ 1353626544
+t_limp_sad_t_walk_sad_000_100 vandrar_ trött_ deprimerad_ _ 1353626616
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 lidande_ lidande_ _ _ 1353626785
+t_limp_angry_t_walk_angry_000_100 tågar_ snabbt_ dugtigt_ _ 1353626940
+k_limp_slow_k_walk_slow_000_100 tänkande_ lungt_ _ _ 1353627013
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 går_ _ _ _ 1353627034
+t_limp_sad_t_walk_sad_100_000 ila_ trött_ _ _ 1353627069
+k_limp_slow_k_walk_slow_100_000 kånkar_o_tiggar_empati_ _ _ _ 1353627325
+t_limp_slow_t_walk_slow_100_000 stannar_ försiktigt_ _ _ 1353627471
+t_limp_slow_t_walk_slow_000_100 stötar_ snorkigt_ arrogant_ _ 1353627904
+k_limp_angry_k_walk_angry_100_000 klenkkar_ rädd_ _ _ 1353628035
+t_limp_angry_t_walk_angry_100_000 dansar_ rytmigt_ _ _ 1353628120
+k_limp_sad_k_walk_sad_000_100 närmar_ försiktigt_ _ _ 1353628271
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 går_ duktigt_ _ _ 1353628328
+k_limp_sad_k_walk_sad_100_000 klenkkar_ försiktigt_ _ _ 1353628353
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 går_ _ _ _ 1353628459
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 går_ duktigt_ _ _ 1353628523
+t_run_fast_t_run_slow_000_100 springer_ _ _ _ 1353628549
+k_run_fast_k_run_slow_000_100 sprang_ _ _ _ 1353628584
+k_run_fast_k_run_slow_100_000 start_ långsamt_ _ _ 1353628692
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 går_ piggt_ _ _ 1353628722
+k_limp_angry_k_walk_angry_000_100 trampa_ jäktigt_ arg_ _ 1353628931
+t_limp_angry_t_limp_sad_050_050 kånka_ ont_ _ _ 1353629053
+k_limp_regular_k_limp_fast_k_limp_angry_050_050_000 går_ piggt_ _ _ 1353629083

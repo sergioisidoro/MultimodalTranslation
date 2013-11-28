@@ -1,0 +1,53 @@
+participant_number 34
+survey_language finnish
+age 26-30
+gender male
+profession_activity to_some_extent
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 Japani 
+language_3_skill good 
+language_3_mother no 
+language_4 Saksa 
+language_4_skill average 
+language_4_mother no 
+language_5 Ruotsi 
+language_5_skill elementary 
+language_5_mother no 
+selected_language Suomi 
+survey_start_at 1354544458
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 ontuu_ loukkaantunut_ hidas_ kömpelö_ 1354544506
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 reippailee_ reipas_ tarmokas_ energinen_ 1354544553
+k_run_fast_k_run_slow_100_000 sprinttaa_ valpas_ aktiivinen_ nopea_ 1354544600
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ kiireinen_ vammautunut_ ontuva_ 1354544625
+t_limp_slow_t_walk_slow_100_000 löntystää_ juopuneesti_ päihtyneesti_ tolkuttomasti_ 1354544720
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ määrätietoinen_ nopea_ reipas_ 1354544758
+t_run_fast_t_run_slow_100_000 sprinttaa_ valpas_ nopea_ reipas_ 1354544842
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 nilkuttaa_ kiireinen_ vammautunut_ ontuva_ 1354544874
+t_limp_sad_t_walk_sad_000_100 etenee_ surullisesti_ hitaasti_ masentuneesti_ 1354544995
+t_limp_angry_t_walk_angry_100_000 sekoilee_ lapsellisesti_ pakonomaisesti_ hassusti_ 1354545026
+t_run_fast_t_run_slow_000_100 hölkkää_ rennosti_ kiireettä_ rauhallisesti_ 1354545054
+k_run_fast_k_run_slow_000_100 hölkkää_ rauhallisesti_ kiireettä_ rennosti_ 1354545109
+k_limp_slow_k_walk_slow_100_000 ontuu_ nilkuttaen_ hitaasti_ vaivalloisesti_ 1354545156
+t_limp_angry_t_walk_angry_000_100 marssii_ määrätietoisesti_ päättäväisesti_ lupsakkaasti_ 1354545185
+k_limp_angry_k_walk_angry_000_100 kävelee_ kiukuttelevasti_ hassusti_ oudosti_ 1354545212
+t_limp_sad_t_walk_sad_100_000 ontuu_ nilkuttaen_ hitaasti_ varovaisesti_ 1354545234
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 ontuu_ nopeasti_ vaivalloisesti_ _ 1354545290
+k_limp_angry_k_walk_angry_100_000 nilkuttaa_ oudosti_ vaivalloisesti_ _ 1354545319
+k_limp_sad_k_walk_sad_100_000 hiipii_ surullisesti_ varovaisesti_ _ 1354545336
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rennosti_ määrätietoisesti_ _ 1354545348
+k_limp_slow_k_walk_slow_000_100 hiippailee_ tarkkaavaisesti_ arasti_ _ 1354545366
+k_limp_sad_k_walk_sad_000_100 kävelee_ pohtivasti_ hitaasti_ _ 1354545389
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ reippaasti_ rennosti_ _ 1354545412
+t_limp_slow_t_walk_slow_000_100 etenee_ pohtivasti_ hitaasti_ rennosti_ 1354545435

@@ -1,0 +1,53 @@
+participant_number 285
+survey_language english
+age 31-40
+gender female
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 English 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Irish 
+language_2_skill fluent 
+language_2_mother yes 
+language_3 Finnish 
+language_3_skill fluent 
+language_3_mother no 
+language_4 German 
+language_4_skill average 
+language_4_mother no 
+language_5 French 
+language_5_skill elementary 
+language_5_mother no 
+selected_language English (Ireland) 
+survey_start_at 1384876718
+t_run_fast_t_run_slow_100_000 running_ sluggishly_ _ _ 1384877139
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 limping_ _ _ _ 1384877637
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 sauntering_ _ _ _ 1384877664
+t_limp_sad_t_walk_sad_000_100 walking_ lethargically_ _ _ 1384877803
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 hobbling_ _ _ _ 1384877872
+k_limp_angry_k_walk_angry_000_100 stomping_ _ _ _ 1384877916
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 striding_ _ _ _ 1384878145
+k_limp_sad_k_walk_sad_000_100 shuffling_ _ _ _ 1384878163
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 hobbling_ _ _ _ 1384878178
+t_limp_angry_t_walk_angry_000_100 stomping_ _ _ _ 1384878195
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 edging_ forward_hurriedly_ _ _ 1384878290
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 walking_ nonchalantly_ _ _ 1384878556
+k_limp_sad_k_walk_sad_100_000 creeping_forward_ in_pain_ _ _ 1384878590
+k_limp_slow_k_walk_slow_000_100 strolling_ _ _ _ 1384878612
+t_limp_slow_t_walk_slow_000_100 pacing_ _ _ _ 1384878668
+t_limp_sad_t_walk_sad_100_000 shuffling_ _ _ _ 1384878736
+k_run_fast_k_run_slow_100_000 sprinting_ _ _ _ 1384878803
+k_limp_angry_k_walk_angry_100_000 shifting_forward_while_dragging_one's_leg_behind_them_ _ _ _ 1384878884
+t_limp_slow_t_walk_slow_100_000 edging_forward_ carefully_ _ _ 1384878917
+t_limp_angry_t_walk_angry_100_000 stamping_ _ _ _ 1384879003
+k_limp_slow_k_walk_slow_100_000 hobbling_ slowly_ _ _ 1384879042
+k_run_fast_k_run_slow_000_100 jogging_ _ _ _ 1384879059
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 striding_ _ _ _ 1384879077
+t_run_fast_t_run_slow_000_100 jogging_ _ _ _ 1384879105

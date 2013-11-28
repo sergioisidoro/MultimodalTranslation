@@ -1,0 +1,53 @@
+participant_number 299
+survey_language farsi
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 فارسی 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 ترکی 
+language_2_skill good 
+language_2_mother yes 
+language_3 انگلیسی 
+language_3_skill average 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language فارسی 
+survey_start_at 1385554655
+t_limp_angry_t_walk_angry_000_100 راه_رفتن_ ورزشکارانه_ قلدرانه_ نسبتا_سریع_ 1385554741
+t_limp_sad_t_walk_sad_100_000 راه_رفتن_ خسته_ زخمی_شده_ غمگین_ 1385554822
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 راه_رفتن_ سرحال_ با_اعتماد_به_نفس_ _ 1385554870
+k_limp_sad_k_walk_sad_000_100 قدمم_زدن_ در_حال_فکر_ ناراحت_ _ 1385554980
+k_limp_angry_k_walk_angry_100_000 راه_رفتن_ زخمی_ کشان_کشان_ _ 1385555018
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 راه_رفتن_ شلیدن_ _ _ 1385555080
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 راه_رفتن_ با_عجله_ لنگیدن_ _ 1385555124
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 راه_رفتن_ _ _ _ 1385555166
+t_run_fast_t_run_slow_000_100 دویدن_ نرم_ آهسته_ _ 1385555239
+k_run_fast_k_run_slow_000_100 دویدن_ آرام_ _ _ 1385555338
+t_limp_sad_t_walk_sad_000_100 راه_رفتن_ افسرده_ شکست_خورده_ غمگین_ 1385555394
+k_limp_angry_k_walk_angry_000_100 راه_رفتن_ پای_کوبان_ بچگانه_ _ 1385555498
+t_run_fast_t_run_slow_100_000 دویدن_ سریع_ _ _ 1385555528
+t_limp_angry_t_walk_angry_100_000 راه_رفتن_ یواش_ ساکت_ _ 1385555602
+k_limp_slow_k_walk_slow_000_100 قدم_زدن_ غمگین_ بی_حال_ _ 1385555667
+k_run_fast_k_run_slow_100_000 دویدن_ خیلی_سریع_ _ _ 1385555686
+t_limp_slow_t_walk_slow_000_100 قدم_زدن_ شکست_خورده_ _ _ 1385555765
+t_limp_slow_t_walk_slow_100_000 راه_رفتن_ لنگ_لنگان_ _ _ 1385555818
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 قدم_زدن_ شلیدن_ _ _ 1385555856
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 راه_رفتن_ سریع_ شلیدن_ _ 1385555878
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 راه_رفتن_ کمی_سریع_ _ _ 1385555942
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 راه_رفتن_ _ _ _ 1385555973
+k_limp_slow_k_walk_slow_100_000 راه_رفتن_ خیلی_زخمی_ دردناک_ _ 1385556015
+k_limp_sad_k_walk_sad_100_000 راه_رفتن_ زخمی_ غمگین_ _ 1385556185

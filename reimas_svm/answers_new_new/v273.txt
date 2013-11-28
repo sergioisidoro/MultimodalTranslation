@@ -1,0 +1,57 @@
+participant_number 273
+survey_language finnish
+age 26-30
+gender male
+profession_activity yes
+are_you_1 active_athlete
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 Ruotsi 
+language_3_skill average 
+language_3_mother no 
+language_4 Ranska 
+language_4_skill elementary 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Suomi 
+survey_start_at 1384777125
+k_limp_angry_k_walk_angry_100_000 nilkuttaa_ vaivalloisesti_ hitaasti_ _ 1384777145
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1384777156
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 köpöttelee_ hitaasti_ varovasti_ _ 1384777198
+t_run_fast_t_run_slow_000_100 hölkkää_ rauhallisesti_ _ _ 1384777210
+k_run_fast_k_run_slow_100_000 juoksee_ nopeasti_ _ _ 1384777219
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ _ _ _ 1384777227
+t_limp_sad_t_walk_sad_000_100 laahustaa_ hitaasti_ surullisesti_ _ 1384777249
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ rauhallisesti_ _ _ 1384777259
+t_limp_angry_t_walk_angry_000_100 marssii_ tarmokkaasti_ _ _ 1384777270
+t_limp_slow_t_walk_slow_000_100 askeltaa_ hitaasti_ varovasti_ _ 1384777284
+k_run_fast_k_run_slow_000_100 hölkkää_ _ _ _ 1384777292
+t_limp_angry_t_walk_angry_100_000 nilkuttaa_ _ _ _ 1384777303
+k_limp_slow_k_walk_slow_000_100 käveleskelee_ rennosti_ _ _ 1384777317
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 nilkuttaa_ _ _ _ 1384777327
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ ripeästi_ määrätietoisesti_ _ 1384777342
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ ripeästi_ _ _ 1384777352
+t_limp_sad_t_walk_sad_100_000 nilkuttaa_ väsyneesti_ _ _ 1384777360
+k_limp_sad_k_walk_sad_100_000 nilkuttaa_ väsyneesti_ masentuneesti_ _ 1384777371
+k_limp_angry_k_walk_angry_000_100 kävelee_ vihaisesti_ _ _ 1384777381
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 nilkuttaa_ rauhallisesti_ _ _ 1384777395
+k_limp_slow_k_walk_slow_100_000 ontuu_ _ _ _ 1384777421
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ _ _ _ 1384777427
+t_limp_slow_t_walk_slow_100_000 nilkuttaa_ hitaasti_ varovasti_ _ 1384777443
+k_limp_sad_k_walk_sad_000_100 kävelee_ hitaasti_ rauhallisesti_ _ 1384777456
+t_walk_regular_t_walk_sad_t_walk_slow_050_000_050 kävelee_ rauhallisesti_ _ _ 1384777477
+t_run_fast_t_run_slow_050_050 juoksee_ _ _ _ 1384777483
+k_limp_slow_k_walk_slow_050_050 ontuu_ varovasti_ _ _ 1384777497
+t_limp_regular_t_limp_fast_t_limp_angry_050_050_000 nilkuttaa_ _ _ _ 1384777506

@@ -1,0 +1,53 @@
+participant_number 290
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 English 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Finnish 
+language_2_skill good 
+language_2_mother no 
+language_3 Irish 
+language_3_skill average 
+language_3_mother no 
+language_4 French 
+language_4_skill average 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English 
+survey_start_at 1385039679
+t_limp_sad_t_walk_sad_000_100 Strolling_ Tiredly_ Depressingly_ Woefully_ 1385039729
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 Walking_ Normally_ Carelessly_ _ 1385039774
+t_limp_slow_t_walk_slow_000_100 Strolling_ Slowly_ Carefully_ _ 1385039968
+t_run_fast_t_run_slow_100_000 Running_ Quickly_ _ _ 1385039982
+k_limp_angry_k_walk_angry_000_100 Stamping_ Angrily_ Childishly_ _ 1385040003
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Limping_ _ _ _ 1385040014
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Walking_ Drunkenly_ _ _ 1385040029
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 Limping_ Quickly_ _ _ 1385040040
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 Walking_ Awkwardly_ _ _ 1385040049
+k_limp_sad_k_walk_sad_100_000 Hobbling_ Painfully_ Slowly_ _ 1385040061
+t_limp_sad_t_walk_sad_100_000 Hobbling_ Slowly_ _ _ 1385040081
+k_limp_slow_k_walk_slow_000_100 Strolling_ Aimlessly_ _ _ 1385040094
+k_limp_sad_k_walk_sad_000_100 Strolling_ _ _ _ 1385040103
+t_run_fast_t_run_slow_000_100 Jogging_ _ _ _ 1385040110
+t_limp_angry_t_walk_angry_100_000 Walking__ weirdly_ _ _ 1385040126
+k_run_fast_k_run_slow_100_000 Sprinting_ _ _ _ 1385040132
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Limping_ _ _ _ 1385040139
+t_limp_slow_t_walk_slow_100_000 Hobbling_ Slowly_ Painfully_ _ 1385040155
+k_limp_slow_k_walk_slow_100_000 Inching_ Carefully_ _ _ 1385040171
+k_limp_angry_k_walk_angry_100_000 Limping_ quickly_ _ _ 1385040182
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 Walking_ Purposely_ _ _ 1385040192
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 Walking_ _ _ _ 1385040201
+t_limp_angry_t_walk_angry_000_100 Storming_off_ _ _ _ 1385040221
+k_run_fast_k_run_slow_000_100 Jogging_ _ _ _ 1385040229

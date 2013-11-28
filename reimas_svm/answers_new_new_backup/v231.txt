@@ -1,0 +1,53 @@
+participant_number 231
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity Sports viewer
+language_1 Urdu 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 English 
+language_2_skill fluent 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language English (Neutral) 
+survey_start_at 1382513915
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Limping_ quickly_ hastily_ awkwardly_ 1382514135
+k_limp_sad_k_walk_sad_100_000 Limping_ Slowly_ Painfully_ Agonizingly_ 1382514329
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 Walking_ Purposefully_ _ _ 1382514484
+k_limp_angry_k_walk_angry_000_100 Walking_ Crazily_ Angrily_ _ 1382514531
+t_limp_sad_t_walk_sad_000_100 Walking_ Thoughtfully_ Slowly_ _ 1382514573
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Limping_ Slowly_ _ _ 1382514626
+k_limp_angry_k_walk_angry_100_000 Limping_ Badly_ _ _ 1382514648
+t_run_fast_t_run_slow_000_100 Jogging_ Tiredly_ Slowly_ _ 1382514671
+k_run_fast_k_run_slow_100_000 Running_ Nicely_ Purposefully_ _ 1382514716
+t_run_fast_t_run_slow_100_000 Running_ Quickly_ Fearfully_ _ 1382514766
+k_run_fast_k_run_slow_000_100 Jogging_ Slowly_ _ _ 1382514806
+t_limp_slow_t_walk_slow_000_100 Walking_ Joyfully_ Thoughtfully_ Happily_ 1382514859
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 Walking_ Purposefully_ Quickly_ _ 1382514897
+k_limp_slow_k_walk_slow_100_000 Limping_ Slowly_ Painfully_ _ 1382514912
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 Limping_ Quickly_ _ _ 1382514925
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 Walking_ Normally_ _ _ 1382514941
+t_limp_angry_t_walk_angry_100_000 Dancing_ Weirdly_ _ _ 1382514999
+t_limp_slow_t_walk_slow_100_000 Limping_ Super_Slowly_ _ _ 1382515020
+k_limp_sad_k_walk_sad_000_100 Strolling_ Slowly_ _ _ 1382515121
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 Walking_ Normally_ _ _ 1382515133
+t_limp_sad_t_walk_sad_100_000 Limping_ Slowly_ _ _ 1382515144
+k_limp_slow_k_walk_slow_000_100 Walking_ Sadly_ Slowly_ Joyfully_ 1382515214
+t_limp_angry_t_walk_angry_000_100 Walking_ Awkwardly_ _ _ 1382515232
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Limping_ Quickly_ _ _ 1382515242

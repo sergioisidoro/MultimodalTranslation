@@ -1,0 +1,53 @@
+participant_number 243
+survey_language english
+age 26-30
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity PhD student
+language_1 English  
+language_1_skill fluent 
+language_1_mother no 
+language_2 amharic  
+language_2_skill fluent 
+language_2_mother no 
+language_3 Kaffegna 
+language_3_skill fluent 
+language_3_mother yes 
+language_4 French  
+language_4_skill fluent 
+language_4_mother no 
+language_5 German 
+language_5_skill fluent 
+language_5_mother no 
+selected_language English 
+survey_start_at 1382899663
+t_limp_slow_t_walk_slow_100_000 somnambulate_ _ _ _ 1382900105
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 careen_ _ _ _ 1382900220
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 amble_ _ _ _ 1382900394
+t_limp_angry_t_walk_angry_000_100 ample_ _ _ _ 1382900615
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 waddle_ _ _ _ 1382900873
+k_limp_angry_k_walk_angry_000_100 lumber_ cool_ _ _ 1382901004
+k_run_fast_k_run_slow_000_100 swagger_ cool_ _ _ 1382901233
+t_limp_sad_t_walk_sad_000_100 strut_ good_ _ _ 1382901379
+k_run_fast_k_run_slow_100_000 prowl_ colorfully__ _ _ 1382901456
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 stride_ colorfully__ _ _ 1382901499
+t_run_fast_t_run_slow_100_000 skulk_ colorfully__ _ _ 1382901649
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 limp_ colorfully__ _ _ 1382902728
+k_limp_sad_k_walk_sad_000_100 wade_ _ _ _ 1382902843
+t_limp_sad_t_walk_sad_100_000 waddle_ _ _ _ 1382903134
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 parade_ colorfully__ _ _ 1382903189
+t_limp_angry_t_walk_angry_100_000 skulk_ _ _ _ 1382903400
+k_limp_angry_k_walk_angry_100_000 meander_ _ _ _ 1382903477
+t_limp_slow_t_walk_slow_000_100 falter_ _ _ _ 1382903741
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 ramble_ colorfully__ _ _ 1382903798
+k_limp_slow_k_walk_slow_100_000 stalk_ colorfully__ _ _ 1382903942
+k_limp_slow_k_walk_slow_000_100 stroll_ colorfully__ _ _ 1382903985
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 ramble_ _ _ _ 1382904111
+t_run_fast_t_run_slow_000_100 lurch_ _ _ _ 1382904227
+k_limp_sad_k_walk_sad_100_000 stagger_ _ _ _ 1382904374
