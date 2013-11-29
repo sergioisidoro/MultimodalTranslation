@@ -45,6 +45,7 @@ for i1 = 1 : length(annotations)
         big_table(row).adj3 = lower(annotations(i1).adjectives_3{i2});
         big_table(row).participant_number = annotations(i1).participant_number;
         big_table(row).answers_in_language = lower(annotations(i1).answers_in_language);
+        disp(big_table(row).answers_in_language);
         big_table(row).questions_in_language = annotations(i1).questions_in_language;
         big_table(row).age = annotations(i1).age;
         big_table(row).gender = annotations(i1).gender;

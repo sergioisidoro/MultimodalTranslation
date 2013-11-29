@@ -16,7 +16,8 @@ load('motion_data_and_normalized_features.mat');
 
 %% Reduce dimensionality and plot
 
-[coeff, score] = princomp_svm(motion_features, 0);
+%[coeff, score] = princomp_svm(motion_features', 8);
+[coeff, score] = princomp(motion_features');
 
 clips = motion_features' * coeff;
 
@@ -619,8 +620,9 @@ dim=2;
 countthr=5;
 
 obsdata=[]
+obsdata2d=[]
 classdata=[]
-classdata2d=[]
+classdata=[]
 class=0
 
 for v=1:length(verb_index)
@@ -641,13 +643,13 @@ for v=1:length(verb_index)
    class=class+1;
    if length(classdata>0)   
       obsdata=[obsdata; verbdata];
-      classdata=[classdata; class*ones(size(verbdata,1),1)];
-      classdata2d=[classdata; class*ones(size(verbdata2d,1),1)];
+      obsdata2d=[obsdata2d; verbdata2d];
+    classdata=[classdata; class*ones(size(verbdata,1),1)];
    else
       obsdata=verbdata;
+      obsdata2d=verbdata2d;
       classdata=class*ones(size(verbdata,1),1);
       
-      classdata2d=class*ones(size(verbdata2d,1),1);
 
    end
  end
@@ -655,8 +657,8 @@ end
 
 %svmlarge=svmtrain(obsdata,classdata,'method','QP')
 %svm2d=svmtrain(obsdata,classdata2d,'method','QP','showplot','1')
-
-
+% 
+% 
 % Write the data for processing with multi-SVM:
 strings={'#comment line'};
 for i=1:size(obsdata,1)
@@ -667,5 +669,9 @@ for i=1:size(obsdata,1)
     end
     strings{i}=shstr;
 end
-save('obs.data','strings','-ascii')
-
+%save('obs.data','strings','-ascii')
+fid = fopen('obs_data.txt', 'w');
+for row=1:length(strings)
+    fprintf(fid, '%s \n', strings{row});
+end
+fclose(fid); 

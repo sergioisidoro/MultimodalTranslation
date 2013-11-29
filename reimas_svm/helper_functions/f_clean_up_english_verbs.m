@@ -6,38 +6,38 @@ function [ word ] = f_clean_up_english_verbs( word )
 
 word = regexprep(word, '__', '_');
 
-if (strcmp(word, 'harppoa_') || strcmp(word, 'harppoo_'))
-    word = 'harppoo_';
+if (strcmp(word, 'amble_') || strcmp(word, 'ambling_') || strcmp(word, 'ample_') )
+    word = 'ambling_';
 end
-if (strcmp(word, 'hiipii_') || strcmp(word, 'hiipiä_'))
-    word = 'hiipii_';
+if (strcmp(word, 'hobble_') || strcmp(word, 'hobbling_'))
+    word = 'hobble_';
 end
-if (strcmp(word, 'hölkkäilee_') || strcmp(word, 'hölkkäillä_'))
-    word = 'hölkkäilee_';
+if (strcmp(word, 'dancing?_') || strcmp(word, 'dancing_'))
+    word = 'dancing_';
 end
-if (strcmp(word, 'hölkkää_') || strcmp(word, 'hölkätä_'))
-    word = 'hölkkää_';
+if (strcmp(word, 'edging_') || strcmp(word, 'edging_forward_'))
+    word = 'edging_';
 end
-if (strcmp(word, 'juoksee_') || strcmp(word, 'juosta_'))
-    word = 'juoksee_';
+if (strcmp(word, 'limb_') || strcmp(word, 'limbing_') || strcmp(word, 'limb_')  || strcmp(word, 'limping_') || strcmp(word, 'limpping_') || strcmp(word, 'limpin_')  )
+    word = 'limbing_';
 end
-if (strcmp(word, 'kävelee_') || strcmp(word, 'kävellä_'))
-    word = 'kävelee_';
+if (strcmp(word, 'march_') || strcmp(word, 'marching_'))
+    word = 'marching_';
 end
-if (strcmp(word, 'linkkaa_') || strcmp(word, 'linkata_'))
-    word = 'linkkaa_';
+if (strcmp(word, 'meander_') || strcmp(word, 'meandering_'))
+    word = 'meander_';
 end
-if (strcmp(word, 'lönköttelee_') || strcmp(word, 'lönkötellä_'))
-    word = 'lönköttelee_';
+if (strcmp(word, 'stagger_') || strcmp(word, 'staggering_'))
+    word = 'staggering_';
 end
-if (strcmp(word, 'löntystelee_') || strcmp(word, 'löntystellä_'))
-    word = 'löntystelee_';
+if (strcmp(word, 'strut_') || strcmp(word, 'strutting_'))
+    word = 'strutting_';
 end
-if (strcmp(word, 'marssii_') || strcmp(word, 'marssia_'))
-    word = 'marssii_';
+if (strcmp(word, 'trodding_') || strcmp(word, 'trot_'))
+    word = 'trodding_';
 end
-if (strcmp(word, 'ontuu_') || strcmp(word, 'ontua_'))
-    word = 'ontuu_';
+if (strcmp(word, 'walk_') || strcmp(word, 'walking_') || strcmp(word, 'walkking_') || strcmp(word, 'wolking_') )
+    word = 'walking_';
 end
 
 end
