@@ -1,6 +1,6 @@
 function [ answers ] = f_read_answers( )
 %UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
+%   Detailed explanation goes herebig_table(row).answers_in_language
 
 % Klaus Förger, Department of Media Technology, Aalto University, 2013 
 
@@ -8,7 +8,7 @@ oldEncoding = slCharacterEncoding();
 %slCharacterEncoding('ISO-8859-1');
 slCharacterEncoding('UTF-8');
 
-listing = dir('answers_new');
+listing = dir('answers_new_new');
 list = {listing(3:length(listing)).name}';
 
 %%
@@ -17,7 +17,7 @@ for i_0 = 2 : size(list, 1)
     
     i = i_0 - 1; 
     
-    fid = fopen(['answers_new/' list{i_0}]);
+    fid = fopen(['answers_new_new/' list{i_0}]);
     
     temp = textscan(fid, '%s%f', 1);
     answers(i).participant_number = temp{2};

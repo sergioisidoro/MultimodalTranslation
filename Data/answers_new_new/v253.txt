@@ -1,0 +1,53 @@
+participant_number 253
+survey_language finnish
+age 21-25
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 suomi 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 englanti 
+language_2_skill fluent 
+language_2_mother no 
+language_3 saksa 
+language_3_skill good 
+language_3_mother no 
+language_4 ruotsi 
+language_4_skill good 
+language_4_mother no 
+language_5 espanja 
+language_5_skill elementary 
+language_5_mother no 
+selected_language suomi 
+survey_start_at 1383770871
+k_limp_sad_k_walk_sad_100_000 ontua_ ontuvasti_ hitaasti_ vaikeasti_ 1383770933
+k_limp_slow_k_walk_slow_100_000 ontuu_ laahaavasti_ _ _ 1383770976
+k_limp_slow_k_walk_slow_000_100 kävelee_ hitaasti_ _ _ 1383771021
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 ontuu_ _ _ _ 1383771033
+k_limp_angry_k_walk_angry_000_100 tamppaa_ tarmokkaasti_ reippaasti_ _ 1383771057
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävelee_ rivakasti_ _ _ 1383771074
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ heilutellen_käsiä_ _ _ 1383771094
+t_limp_sad_t_walk_sad_000_100 kävelee_ hitaasti_ alakuloisesti_ _ 1383771113
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 linkkaa_ oudosti_ _ _ 1383771150
+t_limp_angry_t_walk_angry_000_100 kävelee_ tarmokkaasti_ iloisesti_ _ 1383771168
+k_run_fast_k_run_slow_100_000 juoksee_ nopeasti_ _ _ 1383771180
+t_limp_angry_t_walk_angry_100_000 askeltaa_ varovasti_ _ _ 1383771201
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävelee_ normaalisti_ _ _ 1383771215
+k_limp_angry_k_walk_angry_100_000 ontuu_ hankalasti_ vaikeasti_ pahasti_ 1383771236
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ keveästi_ _ _ 1383771253
+t_limp_slow_t_walk_slow_000_100 kävelee_ hyvin_hitaasti_ _ _ 1383771273
+k_limp_sad_k_walk_sad_000_100 kävelee_ hyvin_hitaasti_ _ _ 1383771288
+t_limp_sad_t_walk_sad_100_000 askeltaa_ hyvin_hitaasti_ _ _ 1383771307
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 askeltaa_ askel_kerrallaan_ _ _ 1383771333
+t_limp_slow_t_walk_slow_100_000 askeltaa_ askel_kerrallaan_ hyvin_hitaasti_ _ 1383771350
+t_run_fast_t_run_slow_000_100 hölkkää_ _ _ _ 1383771376
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 ontuu_ askel_kerrallaan_ _ _ 1383771394
+k_run_fast_k_run_slow_000_100 juoksentelee_ _ _ _ 1383771405
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1383771412

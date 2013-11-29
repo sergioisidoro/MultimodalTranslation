@@ -1,0 +1,53 @@
+participant_number 292
+survey_language english
+age 31-40
+gender male
+profession_activity no
+are_you_1 
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 other
+other_activity Academic researcher
+language_1 English 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 Irish 
+language_2_skill good 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Hiberno (Irish) English 
+survey_start_at 1385054735
+k_limp_slow_k_walk_slow_000_100 Sauntering_ Slowly_ Relaxed_ _ 1385054825
+t_limp_sad_t_walk_sad_100_000 Limping_ _ _ _ 1385054841
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 Limping_ Slightly_ _ _ 1385054878
+k_limp_angry_k_walk_angry_000_100 Stamping_ Loudly_ _ _ 1385054895
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 Walking_ unevenly_ _ _ 1385054981
+t_run_fast_t_run_slow_000_100 Jogging_ Slowly_ _ _ 1385054998
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 Striding_ _ _ _ 1385055007
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 Limping_ _ _ _ 1385055041
+t_limp_angry_t_walk_angry_100_000 Limping_ _ _ _ 1385055138
+t_limp_slow_t_walk_slow_000_100 Sauntering_ Slowly_ _ _ 1385055164
+k_limp_slow_k_walk_slow_100_000 Curtseying_ _ _ _ 1385055352
+k_run_fast_k_run_slow_000_100 Jogging_ Deliberately_ _ _ 1385055371
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 Limping_ Fast_ _ _ 1385055381
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 Walking_ Self-confidently_ _ _ 1385055434
+k_run_fast_k_run_slow_100_000 Running_ _ _ _ 1385055454
+k_limp_sad_k_walk_sad_100_000 Limping_ Pained_ _ _ 1385055473
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 Walking_ Casually_ _ _ 1385055494
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 Striding_ Confidently_ _ _ 1385055519
+t_limp_angry_t_walk_angry_000_100 Marching_ _ _ _ 1385055532
+k_limp_sad_k_walk_sad_000_100 Walking_ Very_slowly_ _ _ 1385055576
+t_run_fast_t_run_slow_100_000 Jogging_ Hurriedly_ _ _ 1385055590
+t_limp_sad_t_walk_sad_000_100 Walking_ Sadly_ Upset_ _ 1385055610
+k_limp_angry_k_walk_angry_100_000 Limping_ Exaggeratedly_ _ _ 1385055628
+t_limp_slow_t_walk_slow_100_000 Limping_ Painfully_ _ _ 1385055650

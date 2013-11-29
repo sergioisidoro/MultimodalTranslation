@@ -1,0 +1,53 @@
+participant_number 272
+survey_language english
+age 26-30
+gender male
+profession_activity to_some_extent
+are_you_1 active_athlete
+are_you_2 
+are_you_3 sports_trainer
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Finnish 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 English 
+language_2_skill good 
+language_2_mother no 
+language_3  
+language_3_skill none 
+language_3_mother no 
+language_4  
+language_4_skill none 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Finnish 
+survey_start_at 1384777084
+t_limp_sad_t_walk_sad_000_100 kävellä_ hitaasti_ _ _ 1384777112
+k_limp_slow_k_walk_slow_100_000 nilkuttaa_ _ _ _ 1384777127
+k_run_fast_k_run_slow_000_100 hölkätä_ _ _ _ 1384777146
+k_limp_angry_k_walk_angry_100_000 nilkuttaa_ _ _ _ 1384777156
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävellä_ reippaasti_ _ _ 1384777186
+t_run_fast_t_run_slow_000_100 hölkätä_ _ _ _ 1384777198
+t_limp_angry_t_walk_angry_100_000 laahustaa_ _ _ _ 1384777212
+t_limp_angry_t_walk_angry_000_100 marssia_ _ _ _ 1384777220
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 laahusta_ _ _ _ 1384777229
+k_limp_sad_k_walk_sad_100_000 ontua_ _ _ _ 1384777249
+k_limp_slow_k_walk_slow_000_100 kävellä_ varovaisesti_ _ _ 1384777267
+k_limp_angry_k_walk_angry_000_100 kävellä_ todella_reippaasti_ _ _ 1384777286
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 kävellä_ päättäväisesti_ _ _ 1384777309
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävellä_ _ _ _ 1384777333
+t_run_fast_t_run_slow_100_000 juosta_ _ _ _ 1384777345
+t_limp_slow_t_walk_slow_100_000 ontua_ todella_hitaasti_ _ _ 1384777360
+k_limp_sad_k_walk_sad_000_100 kävellä_ hitaasti_ _ _ 1384777372
+t_limp_sad_t_walk_sad_100_000 laahustaa_ _ _ _ 1384777383
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 nilkuttaa_ _ _ _ 1384777391
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävellä_ _ _ _ 1384777399
+t_limp_slow_t_walk_slow_000_100 kävellä_ hitaasti_ _ _ 1384777413
+k_run_fast_k_run_slow_100_000 juosta_ _ _ _ 1384777421
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 laahustaa_ _ _ _ 1384777437
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 nilkuttaa_ _ _ _ 1384777445

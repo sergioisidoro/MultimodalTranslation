@@ -1,0 +1,53 @@
+participant_number 275
+survey_language english
+age 41-50
+gender male
+profession_activity no
+are_you_1 active_athlete
+are_you_2 
+are_you_3 
+are_you_4 
+are_you_5 
+are_you_6 
+other_activity 
+language_1 Finnish 
+language_1_skill fluent 
+language_1_mother yes 
+language_2 English 
+language_2_skill fluent 
+language_2_mother no 
+language_3 Swedish 
+language_3_skill good 
+language_3_mother no 
+language_4 German 
+language_4_skill average 
+language_4_mother no 
+language_5  
+language_5_skill none 
+language_5_mother no 
+selected_language Finnish 
+survey_start_at 1384777269
+t_limp_slow_t_walk_slow_000_100 maleksia_ _ _ _ 1384777286
+k_run_slow_k_limp_fast_k_walk_regular_000_000_100 kävellä_ ripeästi_ _ _ 1384777308
+t_limp_slow_t_walk_slow_100_000 ontuu_ kipeästi_ _ _ 1384777320
+t_limp_sad_t_walk_sad_000_100 kävelee_ masentuneesti_ allapäin_ _ 1384777336
+t_walk_fast_t_walk_angry_t_walk_regular_100_000_000 kävelee_ reippaasti_ iloisesti_ _ 1384777348
+t_limp_regular_t_limp_fast_t_limp_angry_100_000_000 onnahtelee_ _ _ _ 1384777358
+k_limp_angry_k_walk_angry_100_000 klonkkaa_ _ _ _ 1384777366
+t_limp_angry_t_walk_angry_100_000 tanssii_ oudosti_ _ _ 1384777383
+k_limp_sad_k_walk_sad_000_100 tallustaa_ miettien_ _ _ 1384777407
+k_limp_slow_k_walk_slow_000_100 käveleen_ miettien_ _ _ 1384777421
+k_limp_angry_k_walk_angry_000_100 lompsii_ iloisesti_ pontevasti_ _ 1384777439
+k_walk_fast_k_walk_angry_k_walk_regular_100_000_000 harppoo_ _ _ _ 1384777447
+k_limp_slow_k_walk_slow_100_000 raahustaa_ _ _ _ 1384777457
+k_run_slow_k_limp_fast_k_walk_regular_000_100_000 raahustaa_ nopeasti_ _ _ 1384777466
+k_run_fast_k_run_slow_000_100 hölkkää_ _ _ _ 1384777475
+t_limp_angry_t_walk_angry_000_100 tömistää_ _ _ _ 1384777483
+k_run_fast_k_run_slow_100_000 juoksee_ _ _ _ 1384777487
+t_run_fast_t_run_slow_000_100 hölkkää_ _ _ _ 1384777494
+k_limp_sad_k_walk_sad_100_000 raahustaa_ _ _ _ 1384777504
+t_run_fast_t_run_slow_100_000 juoksee_ _ _ _ 1384777510
+t_run_slow_t_limp_fast_t_walk_regular_000_100_000 ontuu_ _ _ _ 1384777517
+t_limp_sad_t_walk_sad_100_000 kävelee_ väsyneesti_ _ _ 1384777530
+k_limp_regular_k_limp_fast_k_limp_angry_100_000_000 mummottaa_ _ _ _ 1384777540
+t_run_slow_t_limp_fast_t_walk_regular_000_000_100 kävelee_ _ _ _ 1384777551
